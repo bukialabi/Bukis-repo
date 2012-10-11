@@ -1,4 +1,4 @@
-Login and logout system-header and footer:
+Login and logout system-header and footer:<BR>
 Scheme:
 A user can log in to his account by offering his email address and password. 
 When a user clicks a login link in headers, he will be redirected to the login page (Slide 1).
