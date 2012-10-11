@@ -1,31 +1,36 @@
-Login and logout system-header and footer:<BR>
-Scheme:
-A user can log in to his account by offering his email address and password. 
+<h1>Login and logout system-header and footer:</h1>
+<Strong>Scheme</strong>
+<p>A user can log in to his account by offering his email address and password. 
 When a user clicks a login link in headers, he will be redirected to the login page (Slide 1).
 A user can log out his account by clicking the embedded link in the footer. 
-The user might be redirect to the homepage.
+The user might be redirect to the homepage.</p>
 
-Slides and PHP files:  
-Slide 1 and header or footer.
-Login.php
-logout.php
-header.php
-footer.php
-Coding suggestions:
+<strong>Slides and PHP files:</strong>
+<ul>
+  <li>Slide 1 and header or footer.</li>
+  <li>Login.php</li>
+  <li>logout.php</li>
+  <li>header.php</li>
+  <li>footer.php</li>
+</ul>
 
-For login page:
+
+<h2>Coding suggestions:</h2><br>
+<P>For login page:<Br>
 Accept user email address and password.
 Search for both items within the database. If they don't BOTH match, and error message will pop up saying something to the effect of,
-"Incorrect login information provided."
+"Incorrect login information provided."</p>
 
-For password help, the user will be asked to enter their email address to reset their password.
+<p>For password help, the user will be asked to enter their email address to reset their password.</p>
 
-Log out page:
-A static page that simply has a goodbye message to the user.
+<P>Log out page:<br>
+A static page that simply has a goodbye message to the user.</p>
 
 
-Contributors:
-a. login.php Alabi, Adebanke
-b. logout.php Alabi, Adebanke
-c. header.php Alabi, Adebanke
-d. footer.php Alabi, Adebanke
+<Strong>Contributors:</strong>
+<ol type="a">
+  <li>login.php Alabi, Adebanke</li>
+  <li>logout.php Alabi, Adebanke</li>
+  <li>header.php Alabi, Adebanke<li>
+  <li>footer.php Alabi, Adebanke</li>
+</ol>
