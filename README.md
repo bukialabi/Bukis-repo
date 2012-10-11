@@ -25,7 +25,7 @@ A static page that simply has a goodbye message to the user.
 
 
 Contributors:
-a. login.php Alabi, Adebanke�
-b. logout.php Alabi, Adebanke�
-c. header.php Alabi, Adebanke�
-d. footer.php Alabi, Adebanke�
+a. login.php Alabi, Adebanke
+b. logout.php Alabi, Adebanke
+c. header.php Alabi, Adebanke
+d. footer.php Alabi, Adebanke
